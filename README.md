@@ -6,7 +6,7 @@ An interactive **Microsoft Power BI dashboard for Zomato data analysis**, design
 
 The complete Power BI report is provided in:
 
-`Zomato-Data-Analysis-Dashboard.pbix`
+`Zomato.pbix`
 
 The PBIX file contains the complete report, visuals, data model, measures, filters, and report configuration.
 
@@ -30,7 +30,7 @@ The PBIX file contains the complete report, visuals, data model, measures, filte
 
 ## How to Open
 
-1. Download `Zomato-Data-Analysis-Dashboard.pbix`.
+1. Download `Zomato.pbix`.
 2. Install Microsoft Power BI Desktop.
 3. Open the PBIX file.
 4. If prompted, configure the data-source credentials or paths.
@@ -48,7 +48,10 @@ zomato-data-analysis-powerbi/
 ├── .gitignore
 ├── dashboard-overview.md
 └──assets/
-    └── assets/
+    └── embedded-resource-1.jpeg
+    ├── embedded-resource-2.jpeg
+    ├── embedded-resource-3.jpeg
+    └── README.md
 ```
 
 
